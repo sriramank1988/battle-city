@@ -2,6 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+It is curently hosted in http://battle-city.surge.sh/
+This compares the data such as Traffic, Crime, Health, Pollution, Safety between the two selected Cities and declares the winner which has atleast three better data points.
+
+It Uses https://www.numbeo.com/cost-of-living/ API to make request to gather the data point.
+
+It Uses Matierial UI components to display combo box and buttons. the Combo box has auto complete feature and the API provides
+
 In the project directory, you can run:
 
 ### `npm start`
